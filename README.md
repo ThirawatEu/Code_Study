@@ -30,6 +30,10 @@ This repository includes examples, projects, and exercises in the following lang
 
 - **Ant Design**: A comprehensive UI design language and React-based implementation to create elegant and user-friendly interfaces.
 
+## 🌟 JavaScript Library
+
+- **React**: A JavaScript library for building user interfaces, maintained by Facebook, that allows you to build reusable components and manage the state of your application efficiently.
+
 ---
 
 ## 🚀 My Learning Journey
