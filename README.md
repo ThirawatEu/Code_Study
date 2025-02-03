@@ -34,6 +34,10 @@ This repository includes examples, projects, and exercises in the following lang
 
 - **React**: A JavaScript library for building user interfaces, maintained by Facebook, that allows you to build reusable components and manage the state of your application efficiently.
 
+## ⚡️ Build Tool
+
+- **Vite**: A fast and modern build tool that significantly improves the development experience with features like fast server start, hot module replacement, and optimized build performance.
+
 ---
 
 ## 🚀 My Learning Journey
