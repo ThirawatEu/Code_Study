@@ -16,7 +16,7 @@ function Login() {
           <img src={reactLogo} className="logo react" alt="React logo" />
         </a>
       </div>
-      <h1>Login Page</h1>
+      <h1>Login Page 1</h1>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
