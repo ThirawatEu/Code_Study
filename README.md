@@ -19,6 +19,7 @@ This repository includes examples, projects, and exercises in the following lang
 - **Go**
 - **C#(Learning)**
 - **Java(Learning)**
+- **Python(Learning)**
 
 ---
 
