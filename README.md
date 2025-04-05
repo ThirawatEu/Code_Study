@@ -17,8 +17,7 @@ This repository includes examples, projects, and exercises in the following lang
 - **JavaScript**
 - **TypeScript**
 - **Go**
-- **C#(Learning)**
-- **Java(Learning)**
+- **React Native(Learning)**
 - **Python(Learning)**
 
 ---
